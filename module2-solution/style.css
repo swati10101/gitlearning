@@ -1,1 +1,76 @@
 
+h1{
+    text-align:center;
+}
+
+
+
+.column1,.column2,.column3 {
+  float: left;
+  width: 363px;
+  height: 200px;
+    box-sizing: border-box;
+ margin:11px;
+  color: black;
+border-style: solid ;  
+
+  
+
+
+
+}
+
+
+.column-1{
+
+  background-color:lightpink;
+  padding-top:10px;
+  text-align:center;
+border-style: none none solid solid ;  
+    
+    height: 30px;
+    float:right;
+    width:80px;
+    
+    
+    
+
+
+}
+
+
+.text{
+width: 341px ;
+height: 35px;
+    float:right;
+ margin-top:30px;
+color:black;
+padding:10px;
+
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  
+}
+
+
+@media only screen and (min-width:992px) {
+   
+}
+
+@media only screen and (max-width:767px) 
+{
+    
+}
+
+
+
+@media only screen and (min-width:768px)and (max-width: 991px) {
+  .column3 {width: 100%;
+            
+  }
+}
