@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+}
+
+h1 {
+  color: Black;
+  font-family:Arial, Helvetica, sans-serif;;
+  font-size: 300%;
+}
+
+
+
+
+#Beef, #Chicken , #Suchi {
+  border: 2px solid Black;
+  background-color:#C0C0C0;
+  margin-top: 10px;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 25px;
+  height: auto;
+  width: 100%;
+}
+
+#Beef h2 {
+  background-color: #B22222
+}
+
+#Chicken h2 {
+  background-color: #DDA0DD
+}
+
+#Suchi h2 {
+  background-color: #FFEFD5
+}
+
+h2 {
+  margin-top:0;
+  text-align: center;
+  border: 1px solid Black;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  right:0;
+  }
+
+p {	
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 10px;;
+}
+
+.navbar-nav a {
+  text-align: center;
+  font-weight: bold;
+}
