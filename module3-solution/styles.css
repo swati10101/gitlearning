@@ -13,7 +13,7 @@ h1 {
 
 #Beef, #Chicken , #Suchi {
   border: 2px solid Black;
-  background-color:#C0C0C0;
+  background-color:#A9A9A9;
   margin-top: 10px;
   position: relative;
   overflow: hidden;
@@ -23,15 +23,15 @@ h1 {
 }
 
 #Beef h2 {
-  background-color: #C0C0C0
+  background-color: #A9A9A9;
 }
 
 #Chicken h2 {
-  background-color: #C0C0C0
+  background-color: #A9A9A9;
 }
 
 #Suchi h2 {
-  background-color: #C0C0C0
+  background-color: #A9A9A9;
 }
 
 h2 {
