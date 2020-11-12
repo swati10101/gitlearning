@@ -4,8 +4,8 @@
 
 h1 {
   color: Black;
-  font-family:Arial, Helvetica, sans-serif;;
-  font-size: 300%;
+  font-family:"Times New Roman", Times, serif;
+  font-size: 200%;
 }
 
 
@@ -23,21 +23,21 @@ h1 {
 }
 
 #Beef h2 {
-  background-color: #B22222
+  background-color: #C0C0C0
 }
 
 #Chicken h2 {
-  background-color: #DDA0DD
+  background-color: #C0C0C0
 }
 
 #Suchi h2 {
-  background-color: #FFEFD5
+  background-color: #C0C0C0
 }
 
 h2 {
   margin-top:0;
   text-align: center;
-  border: 1px solid Black;
+  border: none;
   width: 50%;
   position: absolute;
   top: 0;
